@@ -1,9 +1,5 @@
-Welcome to the example task for the full-stack position at IMPARGO. Please read these instructions
-carefully. If you have any questions please write me an e-mail at
-j.labeit@impargo.de.
-
 # Overview
-The task is about building a web application for users who want to find a gas
+The app is about building a web application for users who want to find a gas
 station in Berlin. The final goal is that a user can click on a map and the
 application shows the attributes of the nearest gas station and the location of the
 gas station on a map. The web-application has two parts.
