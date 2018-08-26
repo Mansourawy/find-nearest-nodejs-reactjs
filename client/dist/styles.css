@@ -1,0 +1,54 @@
+
+/*Reset*/
+body{
+    margin:0;
+}
+
+
+
+#mapid {
+  height: 595px;
+}
+
+
+
+/*Header color */
+.header{
+   background: #F6B807;
+    color: #fff;
+    padding: 10px;
+    text-align: CENTER;
+}
+
+
+/*Popup styling*/
+.field-item {
+    padding: 2px;
+}
+.field-item label {
+    font-weight: bold;
+    background: #F6B807;
+    padding: 5px;
+    display: inline-block;
+    box-sizing: border-box;
+}
+
+.field-item span {
+    display: inline-block;
+    box-sizing: border-box;
+}
+
+.btns-holder{
+    margin:5px 0;
+    text-align: center;
+}
+.btns-holder .btn{
+    background: #F6B807;
+    color: #fff;
+    margin: 2px 5px;
+    padding: 5px;
+    cursor: pointer;
+}
+.btns-holder .btn:hover{
+    background: #000;
+}
